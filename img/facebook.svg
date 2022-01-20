@@ -1,0 +1,15 @@
+<svg width="67" height="67" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <clipPath id="clip-facebook">
+   <rect id="svg_1" height="67" width="67"/>
+  </clipPath>
+ </defs>
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <path fill="#3b5998" d="m38.567,24.236l0,-5.567c0,-2.414 0.557,-3.713 4.456,-3.713l4.827,0l0,-9.287l-7.426,0c-9.284,0 -13,6.127 -13,13l0,5.57l-7.424,0l0,9.284l7.427,0l0,27.846l11.14,0l0,-27.849l8.17,0l1.114,-9.284l-9.284,0z" id="Ei-sc-facebook"/>
+ </g>
+</svg>
